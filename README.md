@@ -36,10 +36,5 @@ WARNING: DATABASE IS NOT WORKING
 ![IMG_1310](https://github.com/BrawlStarsApkZip/FBS-V47/blob/main/menu.png)
 
 ## credits ##
-[kagenay](https://github.com/kagenay) Android Client
-
-[s.b](https://github.com/HaccerCat) for his help with client
-
-[Vitalik](https://github.com/VitalikObject) for his crypto from [OldBrawl](https://github.com/VitalikObject/OldBrawl)
 
 [risporce](https://github.com/risporce) for his README.md
